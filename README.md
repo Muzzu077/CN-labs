@@ -1,1 +1,1 @@
-# CN-labs
+# Computer-networks
